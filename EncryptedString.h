@@ -1,3 +1,0 @@
-#ifndef ENCRYPTED_STRING_H
-#define ENCRYPTED_STRING_H_
-#endif;
