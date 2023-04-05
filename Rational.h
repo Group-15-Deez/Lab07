@@ -1,3 +1,8 @@
+/* Charles Young
+    4/5/2023
+    Lab7
+*/
+
 #ifndef RATIONAL_H
 #define RATIONAL_H
 
