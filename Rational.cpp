@@ -1,3 +1,9 @@
+/* Charles Young
+    4/5/2023
+    Lab7
+*/
+
+
 #include "Rational.h"
 
 int gcd(int a, int b) {
