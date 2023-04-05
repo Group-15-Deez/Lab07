@@ -2,7 +2,7 @@
 #define ENCRYPTABLE_STRING_H
 
 #include <string>
-
+//Aiden Militzer
 class EncryptableString {
 private:
     std::string temp;
