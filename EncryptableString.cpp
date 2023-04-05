@@ -1,5 +1,6 @@
 #include "EncryptableString.h"
 #include <iostream>
+//Aiden Militzer
 EncryptableString :: EncryptableString(std::string temp)
 {this->temp = temp;}
 
